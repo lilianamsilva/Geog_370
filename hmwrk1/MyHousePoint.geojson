@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MyHousePoint",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Home": "Home" }, "geometry": { "type": "Point", "coordinates": [ -77.341161376715618, 38.852474532994499 ] } }
+]
+}
